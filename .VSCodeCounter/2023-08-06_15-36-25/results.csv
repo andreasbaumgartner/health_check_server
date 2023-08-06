@@ -1,0 +1,5 @@
+"filename", "language", "pip requirements", "Markdown", "Python", "comment", "blank", "total"
+"d:\Programs\health_check_server\README.md", "Markdown", 0, 4, 0, 0, 3, 7
+"d:\Programs\health_check_server\main.py", "Python", 0, 0, 10, 0, 8, 18
+"d:\Programs\health_check_server\requirements.txt", "pip requirements", 21, 0, 0, 0, 0, 21
+"Total", "-", 21, 4, 10, 0, 11, 46
